@@ -11,9 +11,6 @@ Lead software engineer at **Red Meters** (Orlando, FL) since 2024, where I own t
 - **Operations software.** A single system of record for estimates, inventory, procurement, bill of materials, production and customer success, with two-way sync to HubSpot and QuickBooks Online over REST APIs and webhooks.
 - **Full-stack product work.** React front ends for an on-device operator console and a customer web app; Node.js, Flask and FastAPI services behind them.
 - **Getting it adopted.** Writing the policies, training the people who use these systems, and following each rollout until it is actually used.
-
-### Also: IoT and AWS
-
 - **Edge to cloud.** Multi-sensor acquisition over Modbus RTU/TCP with ZeroMQ and Redis on the device, MQTT into AWS IoT Core, Timestream for time series, Cognito and IAM for identity.
 - **Fleet reliability.** Device provisioning, on-device self-diagnostics, and SQLite tuned for continuous writes.
 
