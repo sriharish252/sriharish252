@@ -2,7 +2,7 @@
 
 Full-stack engineer building AI into the way businesses operate: assistants that answer from a company's own knowledge, agent workflows that take over repetitive work, and the operational systems they plug into.
 
-Lead software engineer at **Red Meters** (Orlando, FL) since 2024, where I own the stack end to end, from the operations platform and web apps to the cloud and on-device services behind the company's RedMeter instruments. Before that, enterprise Java at Cognizant. M.S. in Computer Science, George Mason University (2024).
+Software Engineer at **Red Meters** (Orlando, FL) since 2024. As its lead software engineer I own the stack end to end across full stack, AI automation and IoT, from the operations platform and web apps to the cloud and on-device services behind the company's RedMeter instruments. Before that, enterprise Java at Cognizant. M.S. in Computer Science, George Mason University (2024).
 
 ## What I work on
 
@@ -16,7 +16,7 @@ Lead software engineer at **Red Meters** (Orlando, FL) since 2024, where I own t
 
 ## Earlier
 
-- **Cognizant (2021–2022).** Spring Boot REST services and Angular UI for a production insurance-claims platform; sprint lead for two sprints.
+- **Cognizant (2021–2022), Programmer Analyst.** Spring Boot REST services and Angular UI for a production insurance-claims platform; sprint lead for two sprints.
 - **George Mason University (2022–2024).** M.S. Computer Science, including real-time and embedded systems on a BeagleBone Black.
 - **Publication.** [Cloud Based Attendance Application Using Face Recognition](https://ieeexplore.ieee.org/abstract/document/9453042), IEEE Xplore.
 
