@@ -29,7 +29,7 @@ Software Engineer at **Red Meters** (Orlando, FL) since 2024. As its lead softwa
 | [Computational Website Generation](https://sriharish252.github.io/computational-website-generation/) (live demo) | A portfolio that designs itself: each page is compiled from a parameter vector, checked for contrast, and never repeats a recent design | TypeScript, Next.js, React, Zod, Vitest |
 | [Social Media Content Editor](https://github.com/sriharish252/SocialMediaPlatformSpecificContentEditor) | Multi-agent pipeline that rewrites one piece of content for Instagram, TikTok and LinkedIn, with a reviewer agent in the loop | Python, CrewAI, LangChain, Gemini, Streamlit |
 | [Goodreads Review Sentiment](https://github.com/sriharish252/Goodreads-Reviews-Sentiment-Analyser) | Finds books whose star ratings and written reviews disagree; a DistilBERT model flags 30% of 909 poetry books | Python, VADER, DistilBERT, SQLite |
-<!-- | [Smart Home Security on BeagleBone](https://github.com/sriharish252/RealTimeAndEmbeddedProgramming) | Multithreaded C controller: PIR motion, water sensor, keypad unlock, alarm and status LEDs over GPIO | C, pthreads, BeagleBone Black | -->
+| [Smart Home Security on BeagleBone](https://github.com/sriharish252/RealTimeAndEmbeddedProgramming) | Multithreaded C controller: PIR motion, water sensor, keypad unlock, alarm and status LEDs over GPIO | C, pthreads, BeagleBone Black |
 
 ## Tools
 
