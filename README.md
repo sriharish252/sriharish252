@@ -17,8 +17,8 @@ Software Engineer at **Red Meters** (Orlando, FL) since 2024. As its lead softwa
 ## Earlier
 
 - **Cognizant (2021–2022), Programmer Analyst.** Spring Boot REST services and Angular UI for a production insurance-claims platform; sprint lead for two sprints.
-- **George Mason University (2022–2024).** M.S. Computer Science, including real-time and embedded systems on a BeagleBone Black.
-- **Sathyabama Institute of Science and Technology (2017–2021).** B.E. Computer Science, Chennai, India.
+- **George Mason University (2022–2024).** M.S. Computer Science, GPA 3.87/4.0, with the Outstanding Academic Achievement Award. Coursework included real-time and embedded systems on a BeagleBone Black.
+- **Sathyabama Institute of Science and Technology (2017–2021).** B.E. Computer Science, GPA 8.52/10, Chennai, India.
 - **Publication.** [Cloud Based Attendance Application Using Face Recognition](https://ieeexplore.ieee.org/abstract/document/9453042), IEEE Xplore.
 
 ## Projects
